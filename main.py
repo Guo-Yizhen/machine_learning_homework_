@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# from mydataset import RibDataSet
 import sys
 from dataset import FracRibtrainDataSet, FracRibTestDataSet
 import nibabel as nib
