@@ -1,0 +1,5 @@
+epoch 23 is the best model
+==> Testing model...
+train AUC: 1.00000 ACC: 0.99991
+val AUC: 0.99928 ACC: 0.97421
+test AUC: 0.97328 ACC: 0.89109

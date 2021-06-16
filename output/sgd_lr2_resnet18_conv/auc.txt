@@ -1,0 +1,6 @@
+epoch 4 is the best model
+100%|██████████| 5/5 [39:38<00:00, 475.79s/it]
+==> Testing model...
+train AUC: 0.99901 ACC: 0.96291
+val AUC: 0.99754 ACC: 0.94242
+test AUC: 0.96386 ACC: 0.80682
